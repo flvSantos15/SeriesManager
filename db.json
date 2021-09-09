@@ -1,12 +1,19 @@
 {
   "series": {
-    "1": {
+    "1631023752598": {
+      "name": "the flash",
+      "poster": "//image.tmdb.org/t/p/original/wHa6KOJAoNTFLFtp7wguUJKSnju.jpg",
+      "background": "//image.tmdb.org/t/p/original/eyG9srihv68ScRdEbJZj66WT4O0.jpg"
+    },
+    "1631025978474": {
       "name": "La casa de papel",
-      "status": "WATCHED",
-      "genre_id": 1,
-      "comments": "",
       "poster": "//image.tmdb.org/t/p/original/yVUAfbrP5HDJugXraB7KQS0yz6Z.jpg",
-      "background": "//image.tmdb.org/t/p/original/piuRhGiQBYWgW668eSNJ2ug5uAO.jpg"
+      "background": "//image.tmdb.org/t/p/original/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg"
+    },
+    "1631026018081": {
+      "name": "Arrow",
+      "poster": "//image.tmdb.org/t/p/original/oaLXsduGoDOOftWziIOvyZzrR4T.jpg",
+      "background": "//image.tmdb.org/t/p/original/xSM3Ba3Nabs2p0wW8vTJP0yx3Zv.jpg"
     }
   },
   "genres": {
